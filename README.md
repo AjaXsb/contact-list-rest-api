@@ -17,6 +17,8 @@ A user needs to be logged in to do anything; there is no public access to anythi
 
 ### Search
 
+A user can search for all his contacts.
+
 A user can search for a person by name in the global database. Search results display the name,
 phone number and spam likelihood for each result matching that name completely or partially.
 
