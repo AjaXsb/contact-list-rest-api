@@ -32,13 +32,13 @@ contact - it could be a random number.
 
 ## Instructions to run:
 
-Install dependencies from requirements.txt -> > pip install -r requirements.txt
+Install dependencies from requirements.txt -> `pip install -r requirements.txt`
 
-Make migrations -> > python manage.py makemigrations
+Make migrations -> `python manage.py makemigrations`
 
-Migrate -> > python manage.py migrate
+Migrate -> `python manage.py migrate`
 
-To populate the database -> > python manage.py populate
+To populate the database -> `python manage.py populate`
 (this will populate the database with 3 users and 6 unregistered contacts)
 
-Run Server -> > python manage.py runserver
+Run Server -> `python manage.py runserver`
