@@ -13,6 +13,8 @@ Only one user can register on the app with a particular phone number.
 
 A user needs to be logged in to do anything; there is no public access to anything.
 
+Token Authorization is used to authorize users. After loggin in, the user is returned with a token key which the user has to provide while accessing the apis.
+
 ## API Functions:
 
 ### Search
