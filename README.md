@@ -15,7 +15,9 @@ A user needs to be logged in to do anything; there is no public access to anythi
 
 ## API Functions:
 
-### Search - A user can search for a person by name in the global database. Search results display the name,
+### Search
+
+A user can search for a person by name in the global database. Search results display the name,
 phone number and spam likelihood for each result matching that name completely or partially.
 
 A user can search for a person by phone number in the global database. If there is a registered
@@ -26,7 +28,9 @@ Clicking a search result (in front-end) displays all the details for that person
 the person’s email is only displayed if the person is a registered user and the user who is
 searching is in the person’s contact list.
 
-### Spam - A user is able to mark a number as spam so that other users can identify spammers via
+### Spam 
+
+A user is able to mark a number as spam so that other users can identify spammers via
 the global database. The number may or may not belong to any registered user or
 contact - it could be a random number.
 
